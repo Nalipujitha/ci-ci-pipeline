@@ -16,7 +16,7 @@ function App() {
           color: "#2563eb", 
           fontSize: "50px",
           fontWeight: "700",
-          fontFamily: "Segoe UI, Arial, sans-serif",D
+          fontFamily: "Segoe UI, Arial, sans-serif",
           letterSpacing: "1.2px"
         }}
       >
