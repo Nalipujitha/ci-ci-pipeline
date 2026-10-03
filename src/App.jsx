@@ -16,11 +16,13 @@ function App() {
           color: "#2563eb", 
           fontSize: "50px",
           fontWeight: "700",
-          fontFamily: "Segoe UI, Arial, sans-serif",
+          fontFamily: "Segoe UI, Arial, sans-serif",D
           letterSpacing: "1.2px"
         }}
       >
-        Welcome To Devops class AIDS
+        Hi Everyone, this is Pujitha.
+        its my birthday..!!!
+        tada tada......
       </h1> 
     </div>
   );
